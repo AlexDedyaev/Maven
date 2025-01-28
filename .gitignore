@@ -13,6 +13,7 @@ target/
 *.iml
 *.irp
 out/
+resources/
 
 ### Eclipse ###
 .apt_generated
