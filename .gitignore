@@ -14,7 +14,7 @@ resources/
 *.iml
 *.irp
 out/
-resources/
+/resources/
 
 ### Eclipse ###
 .apt_generated
