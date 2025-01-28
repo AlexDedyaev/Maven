@@ -1,5 +1,4 @@
 target/
-resources/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -14,7 +13,6 @@ resources/
 *.iml
 *.irp
 out/
-/resources/
 
 ### Eclipse ###
 .apt_generated
@@ -49,4 +47,3 @@ build/
 *.zip
 *.tar.gz
 *.rar
-resources/
